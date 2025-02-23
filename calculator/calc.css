@@ -1,0 +1,51 @@
+body{
+    background-color:aquamarine;
+}
+.container{
+    background-color: rgb(31, 29, 42);
+    color:#fff;
+    width:302px;
+    height:400px;
+    position:absolute;
+    left:40%;
+    top:10%;
+    cursor: pointer;
+}
+.display{
+    width:285px;
+    height:90px;
+    padding:8px;
+    margin:8px;
+    color: black;
+    font-size: 35px;
+    background-color: beige;
+}
+.btn{
+    width:50px;
+    height:30px;
+    margin:10px;
+    background-color: rgb(35, 33, 33);
+    color:#fff;
+    font-size:25px;
+    cursor: pointer;
+}
+.operator{
+    width:60px;
+    height:30px;
+    margin:10px;
+    background-color: rgb(35, 33, 33);
+    color:#fff;
+    font-size: 25px;
+    align-items: center;
+    cursor: pointer;
+}
+.spcl{
+    width:70px;
+    height:60px;
+    margin:13px;
+    background-color: rgb(35, 33, 33);
+    color:#fff;
+    font-size: 25px;
+    align-items: center;
+    cursor: pointer;
+}
